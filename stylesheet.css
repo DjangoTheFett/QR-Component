@@ -1,0 +1,38 @@
+body {
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+#card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 24rem;
+  width: 15.5rem;
+  background-color: hsl(0, 0%, 100%);
+  border-radius: 10px;
+}
+
+#card div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+  text-align: center;
+}
+
+#card p {
+  padding-top: 0.5rem;
+  font-size: 15px;
+  color: hsl(220, 15%, 55%);
+}
+#card img {
+  height: 14em;
+  width: 14em;
+  border-radius: 10px;
+}
