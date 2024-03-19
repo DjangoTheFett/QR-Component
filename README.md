@@ -4,4 +4,4 @@
 
     I did not download the design folder I just used the picture and did my best to approximate the padding margins, font sizes card size etc.
 
-    It has been some time since I have done anything with html css or any web development, so my biggest problem with this was remembering the name of css properties to properly manipulate the html components.
+    It has been some long time since I have done anything with html css or any web development so my biggest problem with this was remembering the name of css properties to properly manipulate the html components.
